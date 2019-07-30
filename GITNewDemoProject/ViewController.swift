@@ -16,7 +16,11 @@ class ViewController: UIViewController {
     }
     
     func login() {
-        print("Login")
+        print("Login Func")
+    }
+    
+    func signup(){
+        print("Signupxvxvxvxv")
     }
 
 
